@@ -30,10 +30,6 @@ Supported files and codes for the Python course
 5.
 </a><br>
  
-  
-  
-```markdown
-  x=1
-```
+
 
 
