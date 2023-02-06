@@ -7,10 +7,8 @@ Supported files and codes for the Python course
 بخش اول: پایتون مقدماتی
 </h3>
 
-<h3 style="text-align: justify; direction:rtl">   
-
-#### 1. [مقدمه](https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb)  --->  [دانلود فایل](https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb)
-</h3>
+<div dir=rtl>
+  
 #### 1. [مقدمه](https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb)  --->  [دانلود فایل](https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb)
 
 ```markdown
