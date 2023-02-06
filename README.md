@@ -1,3 +1,5 @@
+<img src="images/Python-logo.png" alt="Diffrent perspective of objects." width="180" height="90">
+
 #### By: Hossein Haghbin
 
 Supported files and codes for the Python course
@@ -14,7 +16,7 @@ Supported files and codes for the Python course
   
 <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
 2.
-</a>
+</a><br>
   
 ```markdown
 ```
