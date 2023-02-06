@@ -1,4 +1,4 @@
-<img src="images/Python-logo.png" alt="Diffrent perspective of objects." width="180" height="90">
+<img src="images/Python-logo.png" alt="Diffrent perspective of objects." width="180" height="90" >
 
 #### By: Hossein Haghbin
 
