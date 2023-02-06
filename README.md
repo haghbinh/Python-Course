@@ -11,7 +11,7 @@ Supported files and codes for the Python course
 
 <div dir=rtl>
 <a href="https://nbviewer.org/github/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb" target="_blank">
-  1. مقدمه 
+  1. مقدمه: انواع داده‌ها 
 </a> <br>
   
 
