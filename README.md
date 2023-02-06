@@ -14,7 +14,7 @@ Supported files and codes for the Python course
   1. مقدمه 
 </a> <br>
   
-<a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
+<a href="https://nbviewer.org/github/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb">
 2.
 </a><br>
 
