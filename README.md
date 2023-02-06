@@ -10,26 +10,11 @@ Supported files and codes for the Python course
 </h3>
 
 <div dir=rtl>
-<a href="https://nbviewer.org/github/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb">
+<a href="https://nbviewer.org/github/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb" target="_blank">
   1. مقدمه 
 </a> <br>
   
-<a href="https://nbviewer.org/github/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb">
-2.
-</a><br>
 
- <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
-3.
-</a><br>
-
- <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
-4.
-</a><br>
-  
-<a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
-5.
-</a><br>
- 
 
 
 
