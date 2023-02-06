@@ -8,9 +8,14 @@ Supported files and codes for the Python course
 </h3>
 
 <div dir=rtl>
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb">
+  1. مقدمه 
+</a> <br>
   
-#### 1. [مقدمه](https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb)  --->  [دانلود فایل](https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb)
-
+<a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
+2.
+</a>
+  
 ```markdown
 ```
 
