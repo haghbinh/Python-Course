@@ -1,23 +1,12 @@
-## Python Course
+#### By: Hossein Haghbin
 
-The Python course in Persian Gulf University, Statistics Department.
+Supported files and codes for the Python course
+
+### You may use the [This weblog](https://haghbinh.github.io/Python-Course/) to preview the content files.
+
+## 1. [Python objects](https://haghbinh.github.io/DMwR/html/2_Getting_to_Know_Your_Data/Loading_data.html)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
