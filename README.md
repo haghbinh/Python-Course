@@ -17,6 +17,20 @@ Supported files and codes for the Python course
 <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
 2.
 </a><br>
+
+ <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
+3.
+</a><br>
+
+ <a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
+4.
+</a><br>
+  
+<a href="https://haghbinh.github.io/Python-Course/Note%20Books/sec1.ipynb">
+5.
+</a><br>
+ 
+  
   
 ```markdown
   x=1
