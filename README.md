@@ -1,4 +1,4 @@
-## Python Tutorial
+## Python Course
 
 The Python course in Persian Gulf University, Statistics Department.
 
