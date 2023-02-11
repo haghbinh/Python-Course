@@ -13,7 +13,10 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb" target="_blank">
   1. درس اول: انواع داده ها و عملگرها، رشته ها، توابع ریاضی پایتون 
 </a> <br>
-  
+<div dir=rtl>
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec2.ipynb" target="_blank">
+  2. درس دوم: کنترل جریان 
+</a> <br> 
 
 
 <h2 style="text-align: justify; direction:rtl">   
