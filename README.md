@@ -11,7 +11,7 @@ Supported files and codes for the Python course
 
 <div dir=rtl>
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb" target="_blank">
-  1. مقدمه: انواع داده‌ها 
+  1. درس اول: انواع داده ها و عملگرها، رشته ها، توابع ریاضی پایتون 
 </a> <br>
   
 
