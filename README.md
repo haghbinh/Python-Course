@@ -18,7 +18,7 @@ Supported files and codes for the Python course
   2. درس دوم: کنترل جریان 
 </a> <br> 
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec2.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec3.ipynb" target="_blank">
   3. درس سوم: توابع 
 </a> <br> 
 
