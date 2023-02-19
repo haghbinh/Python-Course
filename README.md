@@ -25,6 +25,11 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec4.ipynb" target="_blank">
   4. درس چهارم: لیست ها 
 </a> <br> 
+<div dir=rtl>
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec5.ipynb" target="_blank">
+  5. درس پنجم: چندتایی ها و دیکشنری ها 
+</a> <br> 
+
 <h2 style="text-align: justify; direction:rtl">   
 بخش دوم: پایتون پیشرفته
 </h2>
