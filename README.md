@@ -29,6 +29,10 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec5.ipynb" target="_blank">
   5. درس پنجم: چندتایی ها و دیکشنری ها 
 </a> <br> 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/project1.ipynb" target="_blank">
+ مرور چند مینی پروژه 
+</a> <br> 
+
 
 <h2 style="text-align: justify; direction:rtl">   
 بخش دوم: پایتون پیشرفته
