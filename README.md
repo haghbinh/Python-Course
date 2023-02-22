@@ -35,6 +35,9 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/Sec6_projects%20review1.ipynb" target="_blank">
 7. درس  هفتم: توابع lambda، filter، map و zip  
 </a> <br> 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/Sec6_projects%20review1.ipynb" target="_blank">
+8. درس  هشتم: کار با فایل ها 
+</a> <br>
 
 <h2 style="text-align: justify; direction:rtl">   
 بخش دوم: پایتون پیشرفته
