@@ -29,7 +29,7 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec5_tuples%20and%20dictionaries.ipynb" target="_blank">
   5. درس پنجم: چندتایی ها و دیکشنری ها 
 </a> <br> 
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec6_projects%20review1.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec6_projects%20review.ipynb" target="_blank">
 6. درس  ششم: مرور چند مینی پروژه 
 </a> <br> 
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec7_lambda_filter_map_zip.ipynb.ipynb" target="_blank">
