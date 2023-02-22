@@ -10,27 +10,27 @@ Supported files and codes for the Python course
 </h2>
 
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec1_basic%20data%20types%20and%20operators.ipynb" target="_blank">
   1. درس اول: انواع داده ها و عملگرها، رشته ها، توابع ریاضی پایتون 
 </a> <br>
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec2.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec2_Control%20flow.ipynb" target="_blank">
   2. درس دوم: کنترل جریان 
 </a> <br> 
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec3.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec3_functions.ipynb" target="_blank">
   3. درس سوم: توابع 
 </a> <br> 
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec4.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec4_lists.ipynb" target="_blank">
   4. درس چهارم: لیست ها 
 </a> <br> 
 <div dir=rtl>
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec5.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec5_tuples%20and%20dictionaries.ipynb" target="_blank">
   5. درس پنجم: چندتایی ها و دیکشنری ها 
 </a> <br> 
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/Projects1.ipynb" target="_blank">
- مرور چند مینی پروژه 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/Sec6_projects%20review1.ipynb" target="_blank">
+6. درس  ششم: مرور چند مینی پروژه 
 </a> <br> 
 
 
