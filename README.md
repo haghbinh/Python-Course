@@ -32,7 +32,7 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec6_projects%20review.ipynb" target="_blank">
 6. درس  ششم: مرور چند مینی پروژه 
 </a> <br> 
-<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec7_lambda_filter_map_zip.ipynb.ipynb" target="_blank">
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec7_lambda_filter_map_zip.ipynb" target="_blank">
 7. درس  هفتم: توابع lambda، filter، map و zip  
 </a> <br> 
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec8_files.ipynb" target="_blank">
