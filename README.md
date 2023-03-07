@@ -39,6 +39,10 @@ Supported files and codes for the Python course
 8. درس  هشتم: کار با فایل ها 
 </a> <br>
 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec9_NumPy.ipynb" target="_blank">
+9. درس  نهم: کار با کتابخانه نامپای 
+</a> <br>
+
 <h2 style="text-align: justify; direction:rtl">   
 بخش دوم: پایتون پیشرفته
 </h2>
