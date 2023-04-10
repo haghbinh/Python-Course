@@ -39,11 +39,19 @@ Supported files and codes for the Python course
 8. درس  هشتم: کار با فایل ها 
 </a> <br>
 
+<h2 style="text-align: justify; direction:rtl">   
+بخش دوم: پایتون متوسط
+</h2>
+
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec9_NumPy.ipynb" target="_blank">
 9. درس  نهم: کار با کتابخانه نامپای 
 </a> <br>
 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec10_Pandas.ipynb" target="_blank">
+10. درس  دهم: کار با کتابخانه پانداس 
+</a> <br>
+
 <h2 style="text-align: justify; direction:rtl">   
-بخش دوم: پایتون پیشرفته
+بخش سوم: پایتون پیشرفته
 </h2>
 
