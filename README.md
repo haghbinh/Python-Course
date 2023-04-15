@@ -59,3 +59,8 @@ Supported files and codes for the Python course
 بخش سوم: پایتون پیشرفته
 </h2>
 
+</a> <br>
+
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec12_OOP.ipynb" target="_blank">
+12. درس  دوازدهم: برنامه‌نویسی شیء گرا: کلاس، اشیاء و وراثت 
+</a> <br>
