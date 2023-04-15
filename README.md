@@ -54,8 +54,11 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec_11_Pandas_Merge_Join_Concatenate.ipynb" target="_blank">
 11. درس  یازدهم: کار با کتابخانه پانداس-تکمیلی (اختیاری) 
 </a> <br>
-
+  
 <h2 style="text-align: justify; direction:rtl">   
 بخش سوم: پایتون پیشرفته
 </h2>
-
+</a> <br>
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec12_OOP.ipynb" target="_blank">
+12. درس  دوازدهم: برنامه‌نویسی شیء گرا: کلاس، اشیاء و وراثت 
+</a> <br>
