@@ -61,8 +61,7 @@ Supported files and codes for the Python course
 
 <br>
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec12_OOP.ipynb" target="_blank">
-12. درس  دوازدهم: برنامه‌نویسی شیء گرا: 
-(نوت بوک)کلاس، اشیاء و وراثت 
+12. برنامه نویسی شیء گرا (نوت بوک) -
 </a> 
 <a href="https://github.com/haghbinh/Python-Course/blob/master/slides/OOP.pdf" target="_blank">
 (اسلاید) 
