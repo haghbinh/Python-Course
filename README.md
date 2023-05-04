@@ -67,3 +67,10 @@ Supported files and codes for the Python course
 (اسلاید) 
 </a>
 <br>
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec13_DB.ipynb" target="_blank">
+13. پایگاه داده Sqlite (نوت بوک) -
+</a> 
+<a href="https://github.com/haghbinh/Python-Course/blob/master/slides/DB.pdf" target="_blank">
+(اسلاید) 
+</a>
+<br>
