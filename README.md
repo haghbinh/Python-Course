@@ -79,6 +79,6 @@ Supported files and codes for the Python course
 14. کار با رابط کاربری tkinter 
 </a> <br>
 
- <a href="[https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec14_TKinter.ipynb](https://github.com/haghbinh/Python-Course/tree/master/sample%20projects/Phone_book)" >
+ <a href="https://github.com/haghbinh/Python-Course/tree/master/sample%20projects/Phone_book" >
 15. پروژه نمونه 1: دفترچه تلفن
   </a> <br>
