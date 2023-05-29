@@ -82,3 +82,7 @@ Supported files and codes for the Python course
  <a href="https://github.com/haghbinh/Python-Course/tree/master/sample%20projects/Phone_book" >
 15. پروژه نمونه 1: دفترچه تلفن
   </a> <br>
+  
+   <a href="https://github.com/haghbinh/Python-Course/tree/master/sample%20projects/Bank_project" >
+16. پروژه نمونه 2: بانک
+  </a> <br>
