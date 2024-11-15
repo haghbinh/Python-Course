@@ -39,6 +39,7 @@ Supported files and codes for the Python course
 8. درس  هشتم: کار با فایل ها 
 </a> <br>
 
+---
 <h2 style="text-align: justify; direction:rtl">   
 بخش دوم: پایتون متوسط
 </h2>
