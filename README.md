@@ -54,7 +54,12 @@ Supported files and codes for the Python course
 <a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec11_Pandas_Merge_Join_Concatenate.ipynb" target="_blank">
 11. درس  یازدهم: کار با کتابخانه پانداس-تکمیلی (اختیاری) 
 </a> <br>
-  
+
+<a href="https://github.com/haghbinh/Python-Course/blob/master/Note%20Books/sec11_Sales_Analysis_Project.ipynb" target="_blank">
+پروژه تحلیل داده های فروش
+</a> <br>
+
+---
 <h2 style="text-align: justify; direction:rtl">   
 بخش سوم: پایتون پیشرفته
 </h2>
