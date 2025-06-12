@@ -2,7 +2,7 @@
 
 # Python Programming Course | دوره برنامه‌نویسی پایتون
 
-### By: Hossein Haghbin | حسین حق‌بین
+### By: Dr. Hossein Haghbin | دکتر حسین حق‌بین 
 
 **[📘 Blog Version of the Course](https://haghbinh.github.io/Python-Course/)**
 
