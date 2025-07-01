@@ -3,16 +3,16 @@ project:
 
 website:
   page-navigation: true
-  title: "SCoRT"
-  description: "Homepage for 'Short Course on R Tools', Summer 2025."
-  site-url: "https://tinyurl.com/SCiRT"
+  title: "Python Course"
+  description: "Homepage for ' Course on Python'."
+  site-url: "https://haghbinh.github.io/Python-Course/"
 
-  repo-url: https://github.com/mmadoliat/SCoRT/
+  repo-url: https://github.com/haghbinh/Python-Course/
   repo-actions: [edit, issue]
 
   open-graph: true
   twitter-card:
-    creator: "@mmadoliat"
+    creator: "@haghbinh"
     image: "images/twitter-card.png"
 
   sidebar:
