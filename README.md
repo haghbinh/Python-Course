@@ -20,7 +20,7 @@
 | 4 | ورودی/خروجی | Input / Output | input(), print(), f-string، format() | [درس 4](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec4_input_output.ipynb)  |
 | 5 | کنترل جریان | Control Flow | شرط‌ها، حلقه‌ها، break و continue | [درس 5](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec5_Control_Flow.ipynb)  |
 | 6 | توابع | Functions | تعریف توابع، پارامتر، مقدار بازگشتی، math | [درس 6](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec6_Functions.ipynb)  |
-| 7 | ساختارهای داده | Data Structures | لیست، تاپل، دیکشنری، مجموعه‌ها | [درس 7](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec3_operatorssec7_Data_Structures.ipynb)  |
+| 7 |  ساختارهای داده در پایتون | Data Structures | لیست | [درس 7](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec7_Data_Structures_list.ipynb)  |
 | 8 | پروژه نهایی | Final Project | گزارش نمرات دانشجویان با میانگین و واریانس | - |
 
 
