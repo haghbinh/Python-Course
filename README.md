@@ -8,49 +8,9 @@ This repository contains Jupyter notebooks in English. The following bilingual t
 
 ---
 
-## 🟢 Part 1: Elementary Python | پایتون مقدماتی
-
-| Section | درس | English Title | عنوان فارسی | Link |
-|--------|------|----------------|----------------|------|
-| 1 | درس اول | Data Types, Strings, Operators | انواع داده‌ها، رشته‌ها و عملگرها | [Notebook](Note%20Books/sec1_basic%20data%20types%20and%20operators.ipynb) |
-| 2 | درس دوم | Control Flow | کنترل جریان | [Notebook](Note%20Books/sec2_Control%20flow.ipynb) |
-| 3 | درس سوم | Functions | توابع | [Notebook](Note%20Books/sec3_functions.ipynb) |
-| 4 | درس چهارم | Lists | لیست‌ها | [Notebook](Note%20Books/sec4_lists.ipynb) |
-| 5 | درس پنجم | Tuples & Dictionaries | چندتایی‌ها و دیکشنری‌ها | [Notebook](Note%20Books/sec5_tuples%20and%20dictionaries.ipynb) |
-| 6 | درس ششم | Mini Projects Review | مرور چند مینی پروژه | [Notebook](Note%20Books/sec6_projects%20review.ipynb) |
-| 7 | درس هفتم | Lambda, Filter, Map, Zip | توابع lambda، filter، map، zip | [Notebook](Note%20Books/sec7_lambda_filter_map_zip.ipynb) |
-| 8 | درس هشتم | File Handling | کار با فایل‌ها | [Notebook](Note%20Books/sec8_files.ipynb) |
-
----
-
-## 🟡 Part 2: Intermediate Python | پایتون متوسط
-
-| Section | درس | English Title | عنوان فارسی | Link |
-|--------|------|----------------|----------------|------|
-| 9 | درس نهم | NumPy Basics | مقدمات NumPy | [Notebook](Note%20Books/sec9_NumPy.ipynb) |
-| 10 | درس دهم | Pandas Basics | مقدمات Pandas | [Notebook](Note%20Books/sec10_Pandas.ipynb) |
-| 11 | درس یازدهم | Merge, Join, Concatenate (Pandas) | ادغام و ترکیب داده‌ها در Pandas | [Notebook](Note%20Books/sec11_Pandas_Merge_Join_Concatenate.ipynb) |
-| - | پروژه فروش | Sales Analysis Project | پروژه تحلیل فروش | [Notebook](Note%20Books/sec11_Sales_Analysis_Project.ipynb) |
-
----
-
-## 🔵 Part 3: Advanced Python | پایتون پیشرفته
-
-| Section | درس | English Title | عنوان فارسی | Link |
-|--------|------|----------------|----------------|------|
-| 12 | درس دوازدهم | OOP in Python | برنامه‌نویسی شی‌گرا | [Notebook](Note%20Books/sec12_OOP.ipynb) • [Slides](slides/OOP.pdf) |
-| 13 | درس سیزدهم | SQLite Database | پایگاه‌داده SQLite | [Notebook](Note%20Books/sec13_DB.ipynb) • [Slides](slides/DB.pdf) |
-| 14 | درس چهاردهم | Tkinter GUI | رابط گرافیکی Tkinter | [Notebook](Note%20Books/sec14_TKinter.ipynb) |
-| 15 | پروژه نمونه ۱ | Phone Book Project | پروژه دفترچه تلفن | [Folder](sample%20projects/Phone_book) |
-| 16 | پروژه نمونه ۲ | Bank Project | پروژه بانک | [Folder](sample%20projects/Bank_project) |
-
-
-
 ### 🟢 سطح مقدماتی
 > 🎯 **هدف:** یادگیری مبانی زبان برنامه‌نویسی پایتون
 
-
-::: {.table-responsive}
 
 | 🔢 بخش | 🧑‍🏫 درس | 📝 عنوان انگلیسی | 📚 جزئیات | 🔗 لینک |
 |-------|---------|------------------|----------------|----------------|
@@ -62,15 +22,12 @@ This repository contains Jupyter notebooks in English. The following bilingual t
 | 6 | توابع | Functions | تعریف توابع، پارامتر، مقدار بازگشتی، math | [درس 6](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec6_Functions.ipynb)  |
 | 7 | ساختارهای داده | Data Structures | لیست، تاپل، دیکشنری، مجموعه‌ها | [درس 7](https://github.com/haghbinh/Pylab/blob/master/Notebooks/sec3_operatorssec7_Data_Structures.ipynb)  |
 | 8 | پروژه نهایی | Final Project | گزارش نمرات دانشجویان با میانگین و واریانس | - |
-:::
 
 
 ---
 
 ### 🟡 سطح متوسط
 > 🎯 **هدف:** توانمندسازی برای تحلیل و کار با داده‌ها
-
-::: {.table-responsive}
 
 | 🔢 بخش | درس | English Title | عنوان فارسی | لینک |
 |--------|------|----------------|----------------|------|
@@ -81,13 +38,10 @@ This repository contains Jupyter notebooks in English. The following bilingual t
 | 13 | بصری‌سازی | Visualization | نمودار خطی، ستونی، دایره‌ای با Matplotlib | - |
 | 14 | پروژه میانی | Intermediate Project | تحلیل فروش با Pandas و نمودار | - |
 
-:::
-
 ---
 
 ### 🔵 سطح پیشرفته
 > 🎯 **هدف:** ساخت ابزارهای کاربردی با قابلیت‌های پیشرفته
-::: {.table-responsive}
 
 | 🔢 بخش | درس | English Title | عنوان فارسی | لینک |
 |--------|------|----------------|----------------|------|
@@ -97,7 +51,7 @@ This repository contains Jupyter notebooks in English. The following bilingual t
 | 18 | رابط گرافیکی | GUI with Tkinter | فرم، دکمه، اتصال گرافیکی به DB | - |
 | 19 | مدیریت پروژه | Project Management | venv، ساختار پروژه، requirements.txt | - |
 | 20 | پروژه نهایی | Final Project | دفترچه تلفن گرافیکی با SQLite | - |
-:::
+
 
 ---
 
