@@ -4,7 +4,7 @@
 
 ### By: Dr. Hossein Haghbin | دکتر حسین حق‌بین 
 
-This repository contains Jupyter notebooks in English. The following bilingual table provides an overview of course content for both English and Persian audiences.
+###### هیئت علمی گروه آمار، دانشکده مهندسی سیستم های هوشمند و علوم داده، دانشگاه خلیج فارس
 
 ---
 
