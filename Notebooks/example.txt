@@ -1,0 +1,7 @@
+Hello, this is a sample file.
+This file is used to demonstrate file handling in Python.
+You can read this text, add new lines, or modify it using Python code.
+Each line represents a separate piece of information.
+Enjoy practicing Python!
+
+Adding a new line.
