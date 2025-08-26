@@ -33,8 +33,8 @@
 ### 🟡 سطح متوسط
 > 🎯 **هدف:** توانمندسازی برای تحلیل و کار با داده‌ها
 
-| 🔢 بخش | درس | English Title | عنوان فارسی | لینک |
-|--------|------|----------------|----------------|------|
+| بخش | درس | English Title | عنوان فارسی | لینک |
+|-----|--------|-------------------|-------------------|-----------|
 | 12 |  کار با فایل ها | File Handling | کار با فایل ها | [درس 12](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec12_File_Handling.ipynb)  |
 | 13 | توابع پیشرفته | Functional Programming | لامبدا، map, filter, zip | [درس 13](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec13_Functional_Programming.ipynb) |
 | 14 | دکوراتورها و بستارها | Decorators and Closures | Decorators و Closure ها در پایتون | [درس 14](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec14_Decoders_Closure.ipynb) |
