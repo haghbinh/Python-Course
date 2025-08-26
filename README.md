@@ -55,7 +55,12 @@
 | 19 | کپسوله‌سازی | Encapsulation & Getter & Setter | Encapsulation، Getter و Setter و حفاظت از ویژگی‌ها| [درس  19](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec19_Encapsulation_Getter_Setter.ipynb) |
 | 20 |وراثت و چندریختی| Inheritance and Polymorphism | فرم، دکمه، اتصال گرافیکی به DB |[درس 20](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec18_Methods_Attributes.ipynb) |
 | 21 | متدهای جادویی و سربارگذاری عملگرها| Magic Methods and Operator Overloading | متدهای جادویی (Magic Methods) و بازتعریف عملگرها (Operator Overloading) | [درس 21](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec21_Magic_Methods_Operator_Overloading.ipynb) |
-| * | پروژه نهایی | Final Project | دفترچه تلفن گرافیکی با SQLite | [درس 21](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec17_Class_Object.ipynb) |
+| 22 | پایگاه‌داده| SQLite Database in Python | کار با پایگاه‌داده‌های SQLite | [درس 22](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec22_Datanase.ipynb) |
+| 23 | رابط کاربری گرافیکی 1| GUI with Tkinter | مقدمه و ایجاد پنجره ساده و ویجت‌ها و تعامل با کاربر | [درس 23](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec23_Tkinter_1.ipynb) |
+| 24 | رابط کاربری گرافیکی 2| GUI with Tkinter | Frameها، Layout و مدیریت رویدادها | [درس 24](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec24_Tkinter_2.ipynb) |
+| 25 | رابط کاربری گرافیکی 3| Advanced Widgets in Tkinter | ویجت‌های پیشرفته: Listbox، Combobox و Scrollbar| [درس 25](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec25_Tkinter_3.ipynb) |
+| 26 | مدیریت پروژه| Project Management | venv، ساختار پروژه، requirements.txt| [درس 26](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec26_Project_Management.ipynb) |
+| * | پروژه سطح پیشرفته | Project 3 | مدیریت  فروشگاه آنلاین | [پروژه 3](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/proj3.ipynb)  |
 
 
 ---
