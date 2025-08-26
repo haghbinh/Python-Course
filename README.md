@@ -51,10 +51,10 @@
 |------|--------|-----------------|-----------------|--------------|
 | 17 | کلاس و اشیاء | Class and Objects | کلاس‌ها و اشیاء و مقدمه OOP | [درس 17](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec17_Class_Object.ipynb) |
 | 18 | متدها و ویژگی‌ها | Methods & Attributes | متدها و ویژگی‌های کلاس‌ها| [درس 18](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec18_Methods_Attributes.ipynb) |
-| 20 | پایگاه داده | SQLite | ایجاد جدول، درج و حذف، اتصال با sqlite3 | - |
-| 21 | رابط گرافیکی | GUI with Tkinter | فرم، دکمه، اتصال گرافیکی به DB | - |
-| 22 | مدیریت پروژه | Project Management | venv، ساختار پروژه، requirements.txt | - |
-| 23 | پروژه نهایی | Final Project | دفترچه تلفن گرافیکی با SQLite | - |
+| 19 | کپسوله‌سازی | Encapsulation & Getter & Setter | Encapsulation، Getter و Setter و حفاظت از ویژگی‌ها [درس  19](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec19_Encapsulation_Getter_Setter.ipynb) |
+| 20 |وراثت و چندریختی| Inheritance and Polymorphism | فرم، دکمه، اتصال گرافیکی به DB [درس 20](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec18_Methods_Attributes.ipynb) |
+| 21 | متدهای جادویی و سربارگذاری عملگرها| Magic Methods and Operator Overloading | متدهای جادویی (Magic Methods) و بازتعریف عملگرها (Operator Overloading) | [درس 21](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec21_Magic_Methods_Operator_Overloading.ipynb) |
+| * | پروژه نهایی | Final Project | دفترچه تلفن گرافیکی با SQLite | [درس 21](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec17_Class_Object.ipynb) |
 
 
 ---
