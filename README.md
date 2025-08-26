@@ -25,7 +25,6 @@
 | 9 |  ساختارهای داده: دیکشنری‌ها | Data Structures: Dictionaries | کار با دیکشنری‌ها | [درس 9](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec9_Data_Structures_Dictionaries.ipynb)  |
 | 10 |  ساختارهای داده: مجموعه‌ها | Data Structures: Sets | کار با مجموعه‌ها | [درس 10](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec10_Data_Structures_sets.ipynb)  |
 | 11 |  رشته ها| Strings | کار با رشته ها | [درس 11](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec11_strings.ipynb)  |
-| 12 |  کار با فایل ها | File Handling | کار با فایل ها | [درس 12](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec12_File_Handling.ipynb)  |
 | * | پروژه سطح مقدماتی | Project 1 | مدیریت کتابخانه کوچک | [پروژه 1](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/proj1.ipynb)  |
 
 
@@ -36,11 +35,12 @@
 
 | 🔢 بخش | درس | English Title | عنوان فارسی | لینک |
 |--------|------|----------------|----------------|------|
-| 13 | توابع پیشرفته | Functional Programming | لامبدا، map, filter, zip | - |
-| 14 | مقدمات NumPy | NumPy Basics | آرایه، عملیات برداری، آماره‌های ساده | - |
-| 15 | مقدمات Pandas | Pandas Basics | ساخت DataFrame، گروه‌بندی، فیلتر | - |
-| 16 | بصری‌سازی | Visualization | نمودار خطی، ستونی، دایره‌ای با Matplotlib | - |
-| 17 | پروژه میانی | Intermediate Project | تحلیل فروش با Pandas و نمودار | - |
+| 12 |  کار با فایل ها | File Handling | کار با فایل ها | [درس 12](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec12_File_Handling.ipynb)  |
+| 13 | توابع پیشرفته | Functional Programming | لامبدا، map, filter, zip | [درس 13](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec13_Functional_Programming.ipynb) |
+| 14 | دکوراتورها و بستارها | Decorators and Closures | Decorators و Closure ها در پایتون | [درس 14](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec14_Decoders_Closure.ipynb) |
+| 15 | ماژول‌ها و کتابخانه‌ها | Modules and Libraries | کار با کتابخانه‌ها | [درس 15](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/sec15_Modules_Libraries.ipynb) |
+| * | پروژه سطح متوسطه | Project 2 | مدیریت  فروشگاه آنلاین | [پروژه 2](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/proj2.ipynb)  |
+
 
 ---
 
