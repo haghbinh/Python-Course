@@ -32,7 +32,7 @@
 | 9 | تاپل‌ها و مجموعه‌ها | Tuples & Sets | تاپل و ویژگی‌های آن، unpacking، مجموعه (`set`)، عملیات روی مجموعه‌ها، کاربردها | [مشاهده](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/S09_Tuples_Sets.ipynb) |
 | 10 | دیکشنری‌ها | Dictionaries | ساخت دیکشنری، دسترسی و به‌روزرسانی، متدهای دیکشنری، پیمایش دیکشنری، دیکشنری‌های تودرتو | [مشاهده](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/S10_Dictionaries.ipynb) |
 | 11 | رشته‌ها | Strings | اندیس‌گذاری و `slicing` رشته، متدهای رشته، جست‌وجو و جایگزینی، `split` و `join`، قالب‌بندی رشته | [مشاهده](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/S11_Strings.ipynb) |
-| 12 | پروژه‌ی ۱: مدیریت کتابخانه‌ی کوچک | Project 1: Mini Library Management | شرح پروژه، طراحی ساختار داده، پیاده‌سازی، تست و بهبود | [مشاهده](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/S12_Project1.ipynb) |
+| 12 | پروژه‌ی ۱: تحلیل کارنامه‌ی دانشجویان | Project 1: Analyzing Student Transcripts | پاک‌سازی داده‌ی خام متنی، معدل وزنی، مشروطی و رتبه‌بندی، آمار درس‌ها و نمودار متنی، مقایسه‌ی ورودی‌ها، گزارش‌نویسی و دفاع | [مشاهده](https://github.com/haghbinh/Python-Course/blob/master/Notebooks/S12_Project1.ipynb) |
 
 ---
 
