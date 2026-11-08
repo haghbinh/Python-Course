@@ -35,6 +35,23 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      # ---- session pages + PDF downloads (tools/build_site.py) ----
+      - name: Make _site writable
+        run: sudo chown -R "$(id -u):$(id -g)" _site
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install build tools and font
+        run: |
+          pip install nbconvert pypdf playwright
+          python -m playwright install --with-deps chromium
+          npm pack vazirmatn@33.0.3
+          tar xzf vazirmatn-33.0.3.tgz
+          mkdir -p _site/assets/fonts
+          cp package/fonts/webfonts/Vazirmatn-Regular.woff2 package/fonts/webfonts/Vazirmatn-Bold.woff2 _site/assets/fonts/
+      - name: Build session pages and PDFs
+        run: python tools/build_site.py _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
