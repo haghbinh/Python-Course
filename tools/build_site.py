@@ -52,6 +52,7 @@ body { max-width: 1000px; margin: 0 auto !important; }
 .pc-bar a.pc-main { background: #2f80ed; }
 .pc-note { direction: rtl; font-family: 'Vazirmatn', Tahoma, sans-serif; background: #fff4dc; border: 1px solid #d79a2b;
   border-radius: 8px; padding: 10px 14px; margin: 8px 0 16px; }
+@page { margin: 30mm 12mm 15mm 12mm; }
 @media print {
   .pc-bar, .pc-note { display: none !important; }
   body { max-width: none; }
@@ -114,28 +115,55 @@ def build_pages():
     return sessions
 
 
-FOOTER = ('<div style="width:100%;font-size:8px;color:#888;text-align:center;font-family:DejaVu Sans,sans-serif;">'
-          '{label} &middot; <span class="pageNumber"></span> / <span class="totalPages"></span></div>')
+def _b64(path):
+    import base64
+    if not os.path.exists(path):
+        return ""
+    with open(path, "rb") as f:
+        return base64.b64encode(f.read()).decode()
 
 
-def to_pdf(page, html_path, pdf_path, label):
+LOGO = _b64(os.path.join(SITE, "images", "pgu_logo.png"))
+FONT_FACE = "".join(
+    f"@font-face{{font-family:'VazirPDF';font-weight:{w};src:url(data:font/woff2;base64,{_b64(os.path.join(SITE, 'assets', 'fonts', f))}) format('woff2');}}"
+    for w, f in [(400, "Vazirmatn-Regular.woff2"), (700, "Vazirmatn-Bold.woff2")])
+
+
+def header_template(title):
+    logo = f'<img src="data:image/png;base64,{LOGO}" style="height:12mm;width:auto;">' if LOGO else ""
+    return f"""<style>{FONT_FACE}</style>
+<div dir="rtl" style="font-family:'VazirPDF',Tahoma,sans-serif;width:100%;margin:0 12mm;display:flex;align-items:center;
+gap:3mm;border-bottom:0.4pt solid #999;padding-bottom:1.5mm;font-size:10px;color:#333;">
+  {logo}
+  <div style="line-height:1.5;"><b>{COURSE_FA}</b><br>{INSTRUCTOR}</div>
+  <div style="flex:1;text-align:left;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{html.escape(title)}</div>
+</div>"""
+
+
+FOOTER = ("<style>" + FONT_FACE + "</style>"
+          '<div dir="rtl" style="font-family:\'VazirPDF\',Tahoma,sans-serif;width:100%;text-align:center;font-size:9px;color:#666;">'
+          'صفحه‌ی <span class="pageNumber"></span> از <span class="totalPages"></span></div>')
+
+
+def to_pdf(page, html_path, pdf_path, title):
     page.goto("file://" + os.path.abspath(html_path), wait_until="networkidle")
     page.evaluate("document.querySelectorAll('details').forEach(d => d.open = true)")
     page.evaluate("document.fonts.ready")
     page.pdf(path=pdf_path, format="A4", print_background=True,
-             margin={"top": "15mm", "bottom": "15mm", "left": "12mm", "right": "12mm"},
-             display_header_footer=True, header_template="<div></div>",
-             footer_template=FOOTER.format(label=label))
+             margin={"top": "30mm", "bottom": "15mm", "left": "12mm", "right": "12mm"},
+             display_header_footer=True, header_template=header_template(title),
+             footer_template=FOOTER)
 
 
 def cover_html(done):
     rows = "".join(f"<li>{html.escape(t)}</li>" for _, t, _, _ in done)
+    logo = f'<img src="data:image/png;base64,{LOGO}" style="height:38mm;margin-bottom:10mm">' if LOGO else ""
     return f"""<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8">{STYLE}
-<style>body{{font-family:'Vazirmatn',Tahoma,sans-serif;text-align:center;padding-top:30mm}}
+<style>body{{font-family:'Vazirmatn',Tahoma,sans-serif;text-align:center;padding-top:15mm}}
 h1{{font-size:34px;margin:0}} h2{{font-size:22px;color:#555;font-weight:400}}
-ol{{text-align:right;display:inline-block;font-size:15px;line-height:2;margin-top:12mm}}</style></head>
-<body><h1>{COURSE_FA}</h1><h2 dir="ltr">{COURSE_EN}</h2><p style="font-size:18px">{INSTRUCTOR}</p>
-<p style="color:#777">دانشگاه خلیج فارس</p><ol>{rows}</ol>
+ul{{list-style:none;padding:0;text-align:right;display:inline-block;font-size:15px;line-height:2;margin-top:12mm}}</style></head>
+<body>{logo}<h1>{COURSE_FA}</h1><h2 dir="ltr">{COURSE_EN}</h2><p style="font-size:18px">{INSTRUCTOR}</p>
+<p style="color:#777">گروه آمار، دانشکده‌ی مهندسی سیستم‌های هوشمند و علوم داده</p><ul>{rows}</ul>
 <p style="color:#999;font-size:12px;margin-top:10mm" dir="ltr">{date.today().isoformat()}</p></body></html>"""
 
 
@@ -145,7 +173,7 @@ def build_pdfs(sessions):
         browser = p.chromium.launch()
         page = browser.new_page()
         for name, title, _, out in done:
-            to_pdf(page, out, os.path.join(PDF_DIR, name + ".pdf"), f"{COURSE_EN} - {name[:3]}")
+            to_pdf(page, out, os.path.join(PDF_DIR, name + ".pdf"), title)
             print("pdf:", name)
         cover = os.path.join(NB_DIR, "_cover.html")
         with open(cover, "w", encoding="utf-8") as f:
