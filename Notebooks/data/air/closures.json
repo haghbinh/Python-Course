@@ -1,0 +1,54 @@
+{
+  "city": "Example City",
+  "reason": "air pollution",
+  "closures": [
+    {
+      "date": "2025-01-04",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-1-8",
+      "scope": "schools"
+    },
+    {
+      "date": "2025-01-12",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-01-15",
+      "scope": "schools"
+    },
+    {
+      "date": "2025-1-28",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-01-29",
+      "scope": "schools"
+    },
+    {
+      "date": "2025-02-04",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-12-6",
+      "scope": "schools"
+    },
+    {
+      "date": "2025-12-15",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-12-21",
+      "scope": "schools"
+    },
+    {
+      "date": "2025-12-30",
+      "scope": "schools and offices"
+    },
+    {
+      "date": "2025-12-31",
+      "scope": "schools"
+    }
+  ]
+}

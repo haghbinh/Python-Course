@@ -1,0 +1,6 @@
+station_id,name,type,status
+ST01,Center,traffic,active
+ST02,Industrial,industrial,active
+ ST03,Residential,residential,active
+ST04,Suburb,background,active
+ST05,Airport,background,decommissioned 2024
